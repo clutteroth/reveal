@@ -39,6 +39,13 @@ div.tile {
 	float:left;
 }
 
+div.profile {
+	width:120px;
+	height:200px;
+	position:relative;
+	float:left;
+}
+
 img.tile-image {
 	width:100%;
 }
