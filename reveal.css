@@ -50,6 +50,11 @@ div.profile {
 	float:left;
 }
 
+div.students {
+	position:relative;
+	float:left;
+}
+
 img.tile-image {
 	width:100%;
 }
