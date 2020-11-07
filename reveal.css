@@ -51,8 +51,10 @@ div.profile {
 }
 
 div.students {
+	width: 100%;
 	position:relative;
 	float:left;
+
 }
 
 img.tile-image {
